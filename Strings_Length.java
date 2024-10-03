@@ -3,5 +3,6 @@ public class Strings_Length {
   public static void main(String[] args) {
     String name="swadhin";
     System.out.println("the length of the name is "+name.length());
+    System.out.println(name.toUpperCase());
   }  
 }
